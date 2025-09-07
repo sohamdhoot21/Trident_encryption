@@ -1,4 +1,4 @@
-🔐 TriDent Encryption
+# 🔐 TriDent Encryption
 
 Triple-layer encryption system using:
 	1.	Hex Editing
@@ -9,7 +9,7 @@ Securely transforms, scrambles, and hides data inside images, with decoding scri
 
 ⸻
 
-📂 Project Structure
+# 📂 Project Structure
 	•	data/ : Stores input, intermediate, and output files
 	•	input_image.png : Original input image
 	•	encoded_image.png : Image with hidden data
@@ -27,7 +27,7 @@ Securely transforms, scrambles, and hides data inside images, with decoding scri
 
 ⸻
 
-✨ Features
+# ✨ Features
 	•	Converts plain text into hex, then applies bit manipulation.
 	•	Embeds the transformed data securely inside an image file.
 	•	Provides decoding to recover hidden data from encoded images.
@@ -35,10 +35,8 @@ Securely transforms, scrambles, and hides data inside images, with decoding scri
 
 -----
 
-## ⚙️ Requirements
- pip install pillow numpy
  
-## 🚀 How to use
+# 🚀 How to use
 Install Python dependencies:
 
 # Clone repository
